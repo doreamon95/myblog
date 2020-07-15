@@ -18,9 +18,9 @@ summaryLength = 140
   name = "doreamon95"
 
 [params]
-  author = "doreamon95"
-  subtitle = "笔记是研究的开始，起步于Golang、Java、区块链、云计算"
-  keywords = "golang,doreamon95,java,博客,笔记是研究的开始"
+  author = "笔记是研究的开始"
+  subtitle = "笔记是研究的开始，静下心"
+  keywords = "笔记是研究的开始,golang,doreamon95,java,博客"
   description = "专注于学习"
   busuanzi = true #启用不算子网页统计
   # googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
